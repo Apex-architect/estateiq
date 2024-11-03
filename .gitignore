@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Kaggle source file (download separately, see KAGGLE_SETUP.md)
+data/realtor-data.zip.csv
